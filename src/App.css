@@ -1,0 +1,38 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100%;
+}
+
+  .App .card {
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+  }
+
+  label,
+  .radio {
+    width: 100%;
+    display: block;
+    text-align: left;
+    padding: 10px;
+    margin-bottom: 5px;
+    font-size: 20PX;
+  }
+
+  label,
+   .radio {
+    margin-left: 10px;
+  }
+
+  label,
+  .radio input {
+    margin-right: 15px;
+  } 

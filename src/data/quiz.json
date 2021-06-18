@@ -1,0 +1,35 @@
+{
+ "data" : [
+
+  {
+    "question":"I ……… football every Saturday afternoon",
+    "choices": ["playing","am play","play","am playing"],
+    "answer":"play"
+  },
+
+  {
+    "question":"Don’t make too much noise. John ……… to take a nap.",
+    "choices": ["try","tries","is trying","tried"],
+    "answer":"tries"
+  },
+
+  {
+    "question":"He can’t answer the phone. He …….. a shower.",
+    "choices": ["took","take","taking","is taking"],
+    "answer":"is taking"
+  },
+
+  {
+    "question":"It ……… many times every winter in New York.",
+    "choices": ["snows","snowed","is snow","is snowing"],
+    "answer":"snows"
+  },
+
+  {
+    "question":"We woke up at 6am and ……….. .",
+    "choices": ["it was snowing","there was snow","is snows","it snowed"],
+    "answer":"it snowed"
+  }
+
+  ]
+}
